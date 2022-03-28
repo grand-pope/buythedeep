@@ -1,0 +1,27 @@
+{
+  "name": "buythedeep",
+  "version": "1.0.0",
+  "description": "Buy the deep sell the top",
+  "main": "index.js",
+  "module": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grand-pope/buythedeep.git"
+  },
+  "author": "Didz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grand-pope/buythedeep/issues"
+  },
+  "homepage": "https://github.com/grand-pope/buythedeep#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "ethers": "^5.6.2",
+    "prompt": "^1.2.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
